@@ -1308,7 +1308,7 @@ with tb2:
         with inst:
             st.markdown(f""" 
                 <br>
-                <h5 class="title_mktshare">🗯️Subjectivity Inference On Tweets Related to {keyword}</h5>
+                <h5 class="title_mktshare">🗯️Subjectivity Inference On Tweets Related To {keyword}</h5>
                  """,unsafe_allow_html=True)
             fig = px.pie(tweets, values=tweets["Subjectivity Label"].value_counts(), 
             names=tweets['Subjectivity Label'].value_counts().index,color=tweets['Subjectivity Label'].value_counts().index,
