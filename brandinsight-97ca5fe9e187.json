@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brandinsight",
+  "private_key_id": "97ca5fe9e187e3ebd244878e11aa6e77e67bb083",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC87b2m4EcV9N93\nP3HXXo4DQChl5/8CN/skkO1CWoJXxkjLaIm43s1YVLleFcHcB5LulnvYCXQa9QYj\nYa5vw3PQo85uDIlmSU90fvqwcqAsiD+ul8eYA6kdr6mQMCnpPtWWH9JRfX7es2xR\nOJpzFQ4G5dtI9gUAhwnwqRdcuV4jGteM6+DXUwB7R8pg944z0n50LO23gOV5Cv0u\nV+uam6fTWQIG4aIlveY9ByBeOkjL1U05m0WBlGjSV2/Iti3+TieuXk9P5o3FSVxo\nKGtAfh6w5qc+ER12VscgIGcxmabvOzS64so7xIJ1PK1kDgPct7CDQgVgQfOUlfGs\nPfhi07M7AgMBAAECgf9KqP4eyYKjVUxPU5h+rl8bPxS323Zq6gnVPsXZSECPb0xV\nFdABvrUSCGk4mmCBvdHSzKUkOpgnZFeIo+bLQ/IArBBnwjc0tMPcGvyhE1XjmJ7n\nNWkq1EeAnmqOZc9/h9U1U7NJgM53iMVv/hkLDBxUSCw1fljRBzcRDmwCYz6loB08\n2L1DV/R8Mrwqb5eGRPqCN8SfSFlpTlKJOtxlQn7ou/gUY5Mw6VZHF5+csUbDNxzX\nVZeAXBMMiV3brzq59qCybQn3ZDji9awotugDhqrbpjB3U0xAe/E+ERAJCFMSwL9n\nnwFjZE8Ovz9HkYmTggDHpWGhDhj2w3DXbBB5pqUCgYEA5cOtDlYLhClpJL9aAMoy\n07zBK08zO7wkj51TG4ZY3AcWbPF1q+wYoVQt7XbU0r40dwbEKAL7nE6n4rmN/rTh\ny2x8VJjz72VktYdNydv73PgibrtpgnLWH+BZICFyBNldnBxlothgXaXBqjJRYja8\nLNssWVAnJXqZx67hZSpbEVcCgYEA0oBh4qzuXfc6c8mrqVkazyBcTE0u8qGD/cgi\nmINL7Ygy3UBgmuzsDS6dj5e676FCrmlhMidrDvWyt4AOPJYdcPBZlIC38MFHMOkn\nORDAo3BEu82wN0k4dwS2DraA+fZ14MKrWflfAYMAxz0rK51u30qAYz+AS0/mDXeX\n25lZir0CgYEArdFRWxYXEj1tsIIeKZjNyMbz77qzzI3xrr/a/mitUo7+FR654Xzz\nySBwukN6j4+bCyyQOqC/Dimm8mtjk3vtkUIZ8LnhWIsBHB8m5v3H1QvWqKSZFjmf\n6W+EnT0QD8ENAyusa/x7Mn1SPFpinQVBaEHKlCqB4uWT7q9LDohzanMCgYBs7uk4\n/9r/H6DNKNE/+w+nnoyFI/AmubTvkTFuEYwqaTBBVT5pDjB+BeCd3Zxsw9wZHAmj\nhcieXkHVOlyjt9+WgZsqAY6u9aacxht5KZU3PzMiqSgHBEpHNVXtuT53nLaV0MgR\n8L3cr2mosZv0ny0wOoLEWalP0BIyZ/BbQTmYVQKBgEeSF7eSBPg+Fb30PuigMYB+\n4q4Z6dpx+s/hD5ZmLZaa2j7ZNtjz7YV2T6OcCDcrMlDyrQe6wK+0kxte0g3K8oIz\nIGB0HJzXWVQ7S+S2BAUJTleCwGrPa4wef8OAtfd7Y5pd3p9iUZdUnJYcpbna2Awu\nbgMCL8eNp3ZTq63XTHvJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "rscopegooglesheet@brandinsight.iam.gserviceaccount.com",
+  "client_id": "112484534667294828196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rscopegooglesheet%40brandinsight.iam.gserviceaccount.com"
+}

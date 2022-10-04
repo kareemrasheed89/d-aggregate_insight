@@ -1,0 +1,347 @@
+header.css-18ni7ap.e8zbici2 {
+    background: url("https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://retailmarketing.co.in/foodproductsmarketing/wp-content/uploads/2019/06/hemas-fmcg-product-range-banner-march-2017.png");
+    /* background-color:rgba(248, 242, 242, 0.795);  */
+    background-repeat: no-repeat !important;
+    background-size: 1125px 215px !important;
+    background-attachment: fixed;
+    background-position: top center !important;
+    background-blend-mode: screen !important;
+    opacity:5;
+    height: 7rem;
+}
+.container {
+    display: flex;
+    position: relative;
+    padding-top: 10px;
+    align-items: left;
+    flex-direction: row;
+    /* border: #e0dfde solid 2.6px;
+    border-style: groove; */
+    margin-top: 5px;
+    padding-left: 3px;
+    
+}
+.imghead-text {
+    color: #048f24;
+    font-weight:150 !important;
+    font-size:23px !important;
+    padding-top: 20px !important;
+    font-family:sans-serif;
+    padding-left: 1rem;
+   
+}
+
+.logo-img {
+        width:70px;
+        height:60px;
+        padding: 0rem;
+        margin: 0rem;
+        image-rendering: optimizeSpeed;
+}
+.head-line {
+    border: rgba(31, 29, 29, 0.12);
+    height: 2.5px;
+    margin: 0.5rem;
+    flex-shrink: 0;
+    background-color: rgba(31, 29, 29, 0.12);
+}
+ /* #MainMenu {visibility: hidden;} */
+            footer {visibility: hidden;}
+            /* header {visibility: hidden;}  */
+/* div.element-container.css-lma363.e1tzin5v3{
+                background-color: #fcfcfc;
+                border: 0.8px solid #3f5e4f;
+                border-radius: 3px;
+                padding: 0.3px 5px 0.3px 5px;
+            } */
+div.css-1r6slb0.e1tzin5v2 {
+                background-color: #ffffff;
+                border: 0.9px solid #808281;
+                border-radius: 0.5px;
+            }
+div.css-1l269bu.e1tzin5v2 {
+    background-color: #ffffff;
+    border: 0.9px solid #939393;
+    border-radius: 0.5px;
+}
+div.css-12w0qpk.e1tzin5v2{
+    background-color: #ffffff;
+    border: 0.9px solid #939393;
+    border-radius: 0.5px;
+}
+div.css-j5r0tf.e1tzin5v2{
+  background-color: #ffffff;
+  border: 0.9px solid #939393;
+  border-radius: 0.5px;
+}
+div.css-wnm74r.e16fv1kl0{
+    text-align: center ;
+    justify-content: center;
+    font-family: sans-serif;
+    justify-items: center;
+    color: #626662;
+
+}
+/* metric labels */
+div.css-50ug3q.e16fv1kl3{
+    text-align: center ;
+    justify-content: center;
+    font-family: sans-serif;
+    justify-items: center;
+    color: #626662;
+}
+
+/* svg.e1fb0mya1.css-jhkj9c.ex0cdmw0{
+    text-align: center ;
+    justify-content: center;
+    font-family: sans-serif;
+    justify-items: center;
+    align-items: center;
+    display: -webkit-inline-flex;
+    
+} */
+div.st-bc.st-b4.st-bd.st-be.st-bf.st-bg.st-bh.st-bi.st-bj.st-bk.st-bl {
+    gap: 5rem;
+            }
+#tabs-1-tab-0 {
+    color: #058523;
+    font-family: sans-serif !important;
+    font-weight: bold;
+    font-size: 18 !important;
+}
+#tabs-1-tab-1{
+    color: #014d4d;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18;
+}
+/* tabs button line which was red */
+div.st-co.st-cp.st-cq.st-cr.st-cs.st-ct.st-cz.st-cv.st-b1.st-d0.st-d1{
+    color: #013c0f;
+}
+/* the title for slection */
+.select_params{
+    color: #1c591c;
+    font-family: sans-serif;
+    font-size: 23;
+}
+/* /selection css */
+label.css-15tx938.effi0qh3 {
+    color: #36473a;
+    font-style: normal;
+    font-size: medium;
+}
+.title_mktshare{
+    color: #4b4d4b;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 2;
+    border-style: outset;
+    padding-top: 0.5rem;
+    padding-bottom: 00.5rem;
+}
+.fragrance_title{
+    color: #054905;
+    font-size: 18;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 2;
+    border-style: inset;
+    padding-top: 0.5rem;
+    padding-bottom: 00.4rem;
+    margin-bottom: 00.4px;
+}
+.antiseptic_title{
+    color: #034e57; 
+    font-size: 18;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 2;
+    border-style: inset;
+    padding-top: 0.5rem;
+    padding-bottom: 00.4rem;
+    margin-bottom: 00.4px;
+}  
+
+button.css-1cpxqw2.edgvbvh9{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18;
+    color: #23552f;
+    box-shadow: inset;
+}
+.title_mktshare_explainer{
+    color: #626662;
+    text-overflow: ellipsis;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.metric_explainer{
+    text-align: center;
+    font-size: 14px;
+    text-shadow: #fefefe;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .span1_metric{
+    color: #730355;
+    padding-left: 0.3px;
+}
+.span2_metric{
+    color:rgb(107, 91, 3) ;
+    padding-left: 0.3px;
+}
+.span3_metric{
+    color:rgb(5, 91, 149);
+    padding-left: 0.3px;
+} */
+.img_metric{
+    height: 25px;
+    width: 30px;
+    image-rendering: optimizeSpeed optimizeQuality;
+    padding-left: 5px;
+}
+/* .tooltip {
+    position: relative;
+    display:inline-block;
+    align-items: flex-start;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 150px;
+    background-color: rgb(5, 48, 1);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: relative;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 0.5;
+  } */
+  .checkus{
+    border-radius: 2px;
+    border: 0.3px dotted rgb(138, 86, 86) !important;
+    margin-right: 3rem !important;
+    margin-left: 3rem !important;
+    text-align: center !important;
+    color: #4a4948;
+    font-weight: lighter !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size: 16 !important;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 18;
+    width: fit-content;
+
+  }
+  
+  /* table.center {
+    margin-left: 15px; 
+    margin-right: 15px;
+  } */
+  /* .center{
+    margin-left: auto;
+    margin-right: auto;
+    border: solid rgb(1, 58, 14) 1.9px;
+  } */
+  td:hover{
+    color: white;
+    background-color: #1c591c;
+  }
+  th:hover{
+    color: white;
+    background-color: #454645;
+  }
+  .footnote{
+    font-size:medium;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border: rgb(192, 191, 191) solid 1.5px;
+    border-style: outset; */
+  }
+  .terms{
+    text-align: center !important;
+    font-size: large !important;
+    color: black;
+    text-shadow: #454645;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .shelf_img_container{
+    display: flex;
+  }
+  .shelf_img{
+    height: 20rem;
+    width: 17.4rem;
+    image-rendering: optimizeQuality optimizeSpeed;
+    border-image: auto;
+    border-radius: 2px;
+    float: left;
+    padding:  2px;
+  }
+  /* ___________________________________________________________ */
+  /* #Consumer */
+  .social_media_img{
+    height: 5rem;
+    width: 15rem;
+    image-rendering: optimizeQuality optimizeSpeed;
+    border-image: auto;
+  }
+  .quote{
+    color: #016969df;
+    font-size: 15px;
+    text-align: left;
+    text-overflow: clip;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+  }
+  label.css-15tx938.effi0qh3{
+    color: #012b30;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: small;
+    text-shadow: #4a4948;
+    text-decoration: underline;
+  }
+  .s_insight{
+    color: #012b30;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-shadow: #4a4948;
+    text-decoration: underline;
+  }
+  .vl {
+    border-left: 2px solid rgb(1, 51, 72);
+    height: 500px;
+  }
+  .hl{
+    margin-top: auto;
+    padding-top: 0%;
+  }
