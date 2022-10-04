@@ -1,9 +1,5 @@
 streamlit
 gspread
-audioop
-enum
-shutil
-turtle
 gspread_pandas
 gspread_dataframe
 streamlit_lottie
