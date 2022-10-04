@@ -4,7 +4,6 @@ gspread_pandas
 gspread_dataframe
 streamlit_lottie
 streamlit_folium
-streamlit_components
 requests
 win10toast
 millify
