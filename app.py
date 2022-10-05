@@ -1,9 +1,9 @@
 #import all necessary libraries
-from audioop import reverse
-from enum import auto
-from shutil import unregister_archive_format
-from tkinter.tix import COLUMN
-from turtle import color, title, width
+# from audioop import reverse
+# from enum import auto
+# from shutil import unregister_archive_format
+# from tkinter.tix import COLUMN
+# from turtle import color, title, width
 import streamlit as st
 import pandas as pand
 import numpy as np
@@ -24,7 +24,7 @@ import requests
 from PIL import Image
 import time
 import base64
-from win10toast import ToastNotifier
+# from win10toast import ToastNotifier
 from millify import millify
 
 
@@ -91,9 +91,9 @@ st.markdown(f"""
 #create tab clicks for retail and consumer insights
 tb1,tb2,tb3=st.columns([3,3,7])
 tb1,tb2=st.tabs(["RETAIL INSIGHTS","CONSUMER INSIGHTS"])
-toaster = ToastNotifier()
-toaster.show_toast("Hi Welcome Here!", 
-                    "You Can View Insight Better On Your Desktop/Laptop", duration=20, threaded=True)
+# toaster = ToastNotifier()
+# toaster.show_toast("Hi Welcome Here!", 
+#                     "You Can View Insight Better On Your Desktop/Laptop", duration=20, threaded=True)
 #initializing gcp database service account and API endpoint
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
@@ -1337,9 +1337,9 @@ with tb2:
             if submitted:
                 parameter2.insert({"comment": str(comment)})
         consumer_definitions()
-    else:
-        toaster.show_toast("Error", 
-                    "Please fill all necessary inputs", duration=15, threaded=True)  
+#     else:
+#         toaster.show_toast("Error", 
+#                     "Please fill all necessary inputs", duration=15, threaded=True)  
         
         
 
