@@ -1,7 +1,6 @@
 deta==1.1.0
 corpora
 nltk
-nltk.txt
 google-auth==2.11.0
 google-auth-oauthlib==0.5.3
 gspread==5.5.0
